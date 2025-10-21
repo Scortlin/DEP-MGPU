@@ -14,3 +14,4 @@
 
 # Ссылка
 Ссылка на дашборд в Datalens:
+https://datalens.yandex/09hsydjx2fqul
